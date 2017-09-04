@@ -8,7 +8,8 @@ public class JMatrix implements Matrix{
 	public AffineTransform trans = new AffineTransform();
 	@Override
 	public void reset() {
-		
+		//巴拉巴拉
+		//巴拉巴拉2
 		
 	}
 
